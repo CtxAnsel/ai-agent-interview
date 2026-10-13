@@ -29,3 +29,5 @@
 - [Multica 类 Managed Agents 平台：项目深挖、系统设计、前端专项与算法（16 题）](interview-experiences/multica-agent-platform-interview.md) — 基于开源代码和公开面经整理，个人贡献与业务指标需按实际经历填写。
 
 - [Multica 全栈开发 + Agent 平台架构深挖（13 题）](interview-experiences/multica-fullstack-architecture-deep-dive.md) — 状态机、调度、恢复、权限、实时事件、指标与业务落地。
+
+- [真实二面截图：非项目类通用基础题（10 题）](questions/03-general-interview-fundamentals.md) — 多 Agent 调度、上下文隔离、故障兜底、Token 优化、LRU、异步队列、业务场景与安全合规。
