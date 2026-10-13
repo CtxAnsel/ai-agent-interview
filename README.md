@@ -23,3 +23,7 @@
 ## 目标
 
 持续整理 100 道高质量 AI Agent 面试题，附参考答案、架构设计与代码示例。
+
+## 项目型面经
+
+- [Multica 类 Managed Agents 平台：项目深挖、系统设计、前端专项与算法（16 题）](interview-experiences/multica-agent-platform-interview.md) — 基于开源代码和公开面经整理，个人贡献与业务指标需按实际经历填写。
